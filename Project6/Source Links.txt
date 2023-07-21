@@ -1,0 +1,9 @@
+Fonts:
+
+	Newsreader - Regular 400: 
+
+		Designed by Production Type
+		
+		https://fonts.google.com/specimen/Newsreader?category=Serif#about
+	
+
